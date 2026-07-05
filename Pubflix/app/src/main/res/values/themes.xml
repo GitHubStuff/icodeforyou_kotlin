@@ -1,0 +1,6 @@
+<!-- app/src/main/res/values/themes.xml -->
+<resources>
+    <style name="Theme.Pubflix" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
